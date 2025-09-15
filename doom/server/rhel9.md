@@ -1,0 +1,1 @@
+Instructions for us Red Hat Enterprise Linux as the server have been published [on LinkedIn](https://www.linkedin.com/pulse/how-run-doom-ibm-z-linuxone-nielson-nino-de-carvalho-0ukxf/) by Nielson 'Nino' de Carvalho.
